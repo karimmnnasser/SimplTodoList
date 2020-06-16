@@ -1,38 +1,82 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #72389F;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container {
+  width: 50%;
+  margin: 10% auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h1 {
+  color: #fff;
+  margin: 40px 0;
 }
 
-.App-link {
-  color: #61dafb;
+p {
+  color: #ffce00;
+  padding: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ClassList {
+  background-color: #41176E;
+}
+
+span {
+  display: inline-block;
+  padding: 10px;
+  color: #e2e2e2;
+  border-bottom: 1px solid #5c317d;
+  border-right: 1px solid #5c317d;
+}
+
+.name {
+  width: 55%;
+}
+
+.age {
+  width: 30%;
+}
+
+.action {
+  width: 15%;
+  cursor: pointer;
+}
+
+.icon {
+  color: #ffce00;
+  font-weight: bold;
+}
+
+.header {
+  font-weight: bold;
+  background-color: #14B266;
+}
+
+form input {
+  height: 35px;
+  border: unset;
+  cursor: pointer;
+}
+
+form input[type=text] {
+  width: 55%;
+  border-right: 1px solid #ccc;
+}
+
+form input[type=number] {
+  width: 30%;
+}
+
+form input[type=submit] {
+  width: 15%;
+  background-color: #FFCE00;
+  color: #000;
 }
