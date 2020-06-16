@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/karimmnnasser/SimplTodoList.git/static/css/main.1315ae52.chunk.css",
+    "main.js": "/karimmnnasser/SimplTodoList.git/static/js/main.9ae597aa.chunk.js",
+    "main.js.map": "/karimmnnasser/SimplTodoList.git/static/js/main.9ae597aa.chunk.js.map",
+    "runtime-main.js": "/karimmnnasser/SimplTodoList.git/static/js/runtime-main.a701cd73.js",
+    "runtime-main.js.map": "/karimmnnasser/SimplTodoList.git/static/js/runtime-main.a701cd73.js.map",
+    "static/js/2.ec0d45b9.chunk.js": "/karimmnnasser/SimplTodoList.git/static/js/2.ec0d45b9.chunk.js",
+    "static/js/2.ec0d45b9.chunk.js.map": "/karimmnnasser/SimplTodoList.git/static/js/2.ec0d45b9.chunk.js.map",
+    "index.html": "/karimmnnasser/SimplTodoList.git/index.html",
+    "precache-manifest.b06f1deb1c94cca429b76f73294b87ea.js": "/karimmnnasser/SimplTodoList.git/precache-manifest.b06f1deb1c94cca429b76f73294b87ea.js",
+    "service-worker.js": "/karimmnnasser/SimplTodoList.git/service-worker.js",
+    "static/css/main.1315ae52.chunk.css.map": "/karimmnnasser/SimplTodoList.git/static/css/main.1315ae52.chunk.css.map",
+    "static/js/2.ec0d45b9.chunk.js.LICENSE.txt": "/karimmnnasser/SimplTodoList.git/static/js/2.ec0d45b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a701cd73.js",
+    "static/js/2.ec0d45b9.chunk.js",
+    "static/css/main.1315ae52.chunk.css",
+    "static/js/main.9ae597aa.chunk.js"
+  ]
+}
